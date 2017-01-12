@@ -1,0 +1,22 @@
+{
+  "name": "klevu/module-search",
+  "description": "Search data that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
+  "type": "metapackage",
+  "version": "2.0.11",
+  "require": {
+    "klevu/module-productsearch": "2.0.11",
+    "klevu/module-content": "2.0.11",
+    "klevu/module-addtocart": "2.0.11"
+  },
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Klevu Oy",
+      "email": "niraj.aswani@klevu.com",
+      "homepage": "https://www.klevu.com/"
+    }
+  ]
+}
