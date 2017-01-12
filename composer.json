@@ -1,12 +1,12 @@
 {
-  "name": "klevu/module-search-test",
+  "name": "klevutest/module-search-test",
   "description": "Search data that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
   "type": "metapackage",
   "version": "2.0.11",
   "require": {
-    "klevu/module-productsearch-test": "2.0.11",
-    "klevu/module-content-test": "2.0.11",
-    "klevu/module-addtocart-test": "2.0.11"
+    "klevutest/module-productsearch-test": "2.0.11",
+    "klevutest/module-content-test": "2.0.11",
+    "klevutest/module-addtocart-test": "2.0.11"
   },
   "license": [
     "OSL-3.0",
