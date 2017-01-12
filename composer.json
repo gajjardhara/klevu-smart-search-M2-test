@@ -2,7 +2,7 @@
   "name": "klevutest/module-search-test",
   "description": "Search data that learns, generates sales. Fastest, most advanced cloud-based search, autocomplete, instant search",
   "type": "metapackage",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "require": {
     "klevutest/module-productsearch-test": "2.0.11",
     "klevutest/module-content-test": "2.0.11",
@@ -18,10 +18,5 @@
       "email": "niraj.aswani@klevu.com",
       "homepage": "https://www.klevu.com/"
     }
-  ],
-  "autoload": {
-    "files": [
-      "README.md"
-    ]
-  }
+  ]
 }
